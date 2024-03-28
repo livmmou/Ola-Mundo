@@ -4,3 +4,7 @@
 Repositório criado durante uma aula ao vivo em 21/03/2024.
 
 Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
+
+Num | Número | Nota
+---|----|---
+1 | Livia | 10,0
